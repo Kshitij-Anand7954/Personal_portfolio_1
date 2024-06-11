@@ -4,6 +4,7 @@ import { TbBrandNextjs } from "react-icons/tb";
 import { SiMongodb } from "react-icons/si";
 import { DiRedis } from "react-icons/di";
 import { FaNodeJs } from "react-icons/fa";
+import {motion} from 'framer-motion';
 const Technologies = () => {
   return (
     <div className="border-b border-neutral-800 pb-24">
