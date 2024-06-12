@@ -37,7 +37,7 @@ const Hero = () => {
                  initial="hidden"
                  animate="visible"
                 className="my-2 mx-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</motion.p>
-                <a href="path_to_your_resume.pdf" download="Resume.pdf">
+                <a href="./Resume.pdf" download="Resume.pdf">
                   <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     Resume
                   </button>
